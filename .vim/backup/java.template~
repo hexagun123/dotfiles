@@ -1,0 +1,8 @@
+:%%FILENAME%%%.java
+
+%%%PACKAGE%%%
+
+public class %%%CLASSNAME%%% {
+    %%%CURSOR%%%
+}
+

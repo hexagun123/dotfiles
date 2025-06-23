@@ -1,0 +1,4 @@
+print("new")
+for i in range(10):
+    print("my love")
+print("hello world")
